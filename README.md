@@ -1,4 +1,4 @@
-<img width="586" height="278" alt="image" src="https://github.com/user-attachments/assets/e743d56b-5769-4d78-9245-b99ca5e5c5d7" /># Payroll-Management-System
+# Payroll-Management-System
 This is a small console-based Java payroll system that manages multiple employee types — Salaried, Hourly, and Manager — and computes their pay according to their own rules. The program demonstrates core object-oriented concepts (abstraction, encapsulation, inheritance, polymorphism) while providing a simple, interactive menu for adding employees and printing a payroll summary. It solves the problem of calculating pay for mixed employee types (including overtime and bonuses) from a single unified structure.
 
 Abstraction
